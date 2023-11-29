@@ -1,4 +1,4 @@
-# FM_Broadcasting-
+# FM_Broadcasting
 Transmission and receiving FM modulated signals using Matlab and the National Instruments (NI) USRP kit.
 
 In this project, we transmit and receive our signals as well as transmit and receive commercial signals.
